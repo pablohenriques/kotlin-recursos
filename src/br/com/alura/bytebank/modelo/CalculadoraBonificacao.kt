@@ -9,4 +9,14 @@ class CalculadoraBonificacao {
         this.total += funcionario.bonificacao
     }
 
+//    fun registra(funcionario: Any) {
+//        funcionario as Funcionario
+//        this.total += funcionario.bonificacao
+//    }
+
+//    fun registra(funcionario: Any) {
+//        if(funcionario is Funcionario) {
+//            this.total += funcionario.bonificacao
+//        }
+//    }
 }
